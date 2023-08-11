@@ -1,5 +1,3 @@
 # BI_Analysis--Google_Playstore
 
-• This Project is made by using Microsoft Power BI.
-• The dashboard here analyses installations, reviews, ratings of Apps, 
-along with the genre & The Highest Downloaded App(s)
+This data contained Name of the application, Category, User ratings of the app, User reviews, Size, Installations(no. of times the app has been installed), Type(Paid or Free), Content Rating(Age group suitability), Genre, Last Updated, Current & Android Version. Utilized Microsoft Power BI to analyze & create the dashboard. The dashboard here analyses installations, reviews, rating of Apps, along with the genre & The Highest Downloaded App(s). There were in total 120 genre across 34 categories of applications & out of which, The Highest Downloaded was Subway Surfer.
